@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*HI,WELCOME TO GITHUB*
+_THIS IS 104526_
+**U WILL BE READING THIS IN BOLD FORMAT**
+__AGAIN U ARE READING IN BOLD FORMAT__
